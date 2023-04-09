@@ -1,0 +1,54 @@
+footer {
+    .reviews {
+        background-color: $tertiary-color;
+        background-size: 100% 100%;
+        padding: 40rem 40rem;
+    }
+
+    p {
+        margin-top: 37rem;
+        padding: 1rem 1rem;
+        font-size: x-large;
+    }
+
+    .i1 {
+        border-radius: 50%;
+    }
+
+    .p1 {
+        margin: 0rem 2rem;
+    }
+
+    .p2 {
+        margin: 0rem 1rem;
+        color: $primary-color;
+    }
+
+    .p3 {
+        margin: 3rem 2rem;
+        padding: 0px;
+    }
+
+    .g2 {
+        position: relative;
+        font-size: $font-size;
+        flex-flow: row;
+        margin-left: 36rem;
+        margin-top: -500px;
+
+        span {
+            margin-left: 5rem;
+        }
+
+        h4 {
+            color: $primary-color;
+            font-size: $font-size-big;
+        }
+    }
+    .son{
+        background-color: $secondary-color;
+        color: $tertiary-color;
+        background-size: 100% 100%;
+        padding: 5rem 40rem;
+    }
+}

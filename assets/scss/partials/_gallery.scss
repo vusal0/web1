@@ -1,0 +1,29 @@
+.gallery{
+background-color: $tertiary-color;
+background-size: 100% 100%;
+height: 40vh;
+.g1{
+position: relative;
+transform: translate(20%,40%);
+font-size: $font-size;
+flex-flow: row;
+margin-left: 26rem;
+span{
+    margin-left: 7rem;
+}
+h4 {
+    display: inline-block;
+    border: none;
+    color: $primary-color;
+    padding: .6rem;
+    padding-right: 2rem;
+    font-size: $font-size-big;
+    }
+}
+.foto{
+background-color: $tertiary-color;
+background-size: 100% 100%;
+height: 40vh;
+padding: 6rem 6rem;
+}
+}
